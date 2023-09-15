@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e896e7ea-9339-408e-b574-c15d78abf445" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/trangdangnhap/form_dang_ky.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codegym.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv_xin_viec.html" beforeDir="false" afterPath="$PROJECT_DIR$/cv_xin_viec.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/trangdangnhap/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/trangdangnhap/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +44,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -59,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1694782988867</updated>
-      <workItem from="1694782990255" duration="3365000" />
+      <workItem from="1694782990255" duration="3607000" />
     </task>
     <servers />
   </component>
